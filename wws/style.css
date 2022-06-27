@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    border-color: blue;
+  }
+  
+ body{
+  background-color: rgb(255, 251, 0);
+  font-family: 'comic-sans' , cursive;
+
+
+ }
