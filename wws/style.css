@@ -1,10 +1,27 @@
-* {
-    box-sizing: border-box;
-    border-color: blue;
-  }
+.div {
+  border: 5px outset blue;
+  background-color: orangered;
+  text-align: center;
+  float:left;
+}
+.div2 {
+  border: 5px outset blue;
+  background-color: orangered;
+  text-align: left;
+  float: center;
+}
+.div3 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: orangered;
+  border:5px outset blue;
+  text-align: center;
+}
   
  body{
-  background-color: rgb(255, 251, 0);
+  background-color: orangered;
   font-family: 'comic-sans' , cursive;
 
 
